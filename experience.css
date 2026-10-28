@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: chocolate;
+    font-style: oblique;
+}
+
+h2 {
+    color: chocolate;
+    font-style: oblique;
+}
